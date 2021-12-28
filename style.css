@@ -6,7 +6,7 @@
 
 a {
     text-decoration: none;
-    color: rgb(61, 146, 201);
+    color: rgb(185, 61, 201);
 }
 a:hover,
 a:focus {
@@ -34,7 +34,9 @@ h3 {
 }
 
 .sidebar {
-    background: rgb(61, 79, 93);
+    background: rgb(67, 93, 61);
+    right: 1000px;
+    left: 0px;
     color: #fff;
 }
 
@@ -78,7 +80,7 @@ h3 {
 .content-subhead {
     text-transform: uppercase;
     color: #aaa;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid rgb(238, 238, 238);
     padding: 0.4em 0;
     font-size: 80%;
     font-weight: 500;
@@ -139,7 +141,7 @@ h3 {
 .post-image-meta {
     margin-top: -3.5em;
     margin-left: 1em;
-    color: #fff;
+    color: rgb(249, 255, 250);
     text-shadow: 0 1px 1px #333;
 }
 
@@ -147,8 +149,8 @@ h3 {
     padding: 1em 0;
 }
 .footer a {
-    color: #ccc;
-    font-size: 80%;
+    color: rgb(133, 89, 69);
+    font-size: 100%;
 }
 .footer .pure-menu a:hover,
 .footer .pure-menu a:focus {
